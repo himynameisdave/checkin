@@ -1,0 +1,8 @@
+# Env
+.toggl-token
+.google-creds.json
+.google-token.json
+
+# Other
+*.DS_Store
+node_modules/
